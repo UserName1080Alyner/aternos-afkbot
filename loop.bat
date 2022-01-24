@@ -1,2 +1,2 @@
 node start
-loop2.bat
+bash loop2.bat
