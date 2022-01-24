@@ -2,8 +2,8 @@ const mineflayer = require('mineflayer')
 
 
 bot=mineflayer.createBot({
-	host: 'redesky.com'
-	port: '25565'
+	host: 'jogar.survivalcomplecxo2.ga'
+	port: '22875'
 	username: 'SrStevon'
 })
 
