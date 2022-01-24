@@ -1,1 +1,1 @@
-worker: ./loop.bat
+worker: bash loop.bat
