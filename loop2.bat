@@ -1,1 +1,1 @@
-loop.bat
+bash loop.bat
