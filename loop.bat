@@ -1,2 +1,2 @@
-node start
+node index.js
 bash loop2.bat
