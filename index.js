@@ -7,7 +7,3 @@ bot=mineflayer.createBot({
 	username: 'SrStevon'
 })
 
-bot.on('spawn',function() {
-    bot.chat('/login 81998993470')
-});
-
