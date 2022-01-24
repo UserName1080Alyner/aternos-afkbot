@@ -1,1 +1,1 @@
-worker: bash loop.bat
+worker: apt update
