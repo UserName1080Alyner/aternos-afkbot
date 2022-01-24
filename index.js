@@ -14,6 +14,11 @@ bot4=mineflayer.createBot({
 	version: '1.13'
 })
 
-bot.on('spawn',function() {
+bot3.on('spawn',function() {
     bot.chat('/login 123123')
+});
+
+
+bot4.on('spawn',function() {
+    
 });
