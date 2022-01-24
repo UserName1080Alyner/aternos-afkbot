@@ -1,1 +1,1 @@
-worker: apt update
+worker: su
